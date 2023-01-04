@@ -4,3 +4,12 @@ section#gitKomandos > ul {
     background-color: rgba(99, 99, 228, 0.205);
     border-radius: 5px;
 }
+
+body {
+    background-color: brown;
+    color: white;
+}
+
+section#gitKomandos > ul > li{
+    font-size: 32px;
+}
