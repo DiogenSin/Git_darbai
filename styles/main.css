@@ -1,0 +1,6 @@
+section#gitKomandos > ul {
+    max-width: 80%;
+    margin: 30px auto 0;
+    background-color: rgba(99, 99, 228, 0.205);
+    border-radius: 5px;
+}
